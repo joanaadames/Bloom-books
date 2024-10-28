@@ -1,0 +1,10 @@
+:root{ 
+    --cor-de-fundo: #d8cdf3;
+    --cor-do-texto: #FFFFFF;
+--destaque: rgb(192, 119, 238);
+--links: darKblue; 
+}
+.cabecalho{
+    background-color: var(--cor-de-fundo); 
+
+}
