@@ -1,0 +1,33 @@
+
+
+@import url("styles/header.css");
+:root{ 
+    --cor-de-fundo: #d8cdf3;
+    --cor-do-texto: #FFFFFF;
+--destaque: rgb(192, 119, 238);
+--links: darKblue; 
+--cor-do-texto2: #570303;
+}
+.cabecalho{
+    background-color: var(--cor-de-fundo); 
+}
+section {
+    background-image: url("images/sunset.png");
+}
+section {
+    background-repeat:no-repeat;
+}
+
+.jinx{
+    height: 100vh;
+    background-image: url(img/fundo-roxo-claro.webp);
+    margin: 00px;
+}
+
+.vi{
+    margin-top: 00px;
+    font-size: 20px;
+}
+
+
+      
